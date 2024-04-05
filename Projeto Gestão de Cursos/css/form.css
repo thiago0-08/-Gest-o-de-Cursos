@@ -1,0 +1,12 @@
+.conteiner{
+    border-left: 500px;
+    margin-top: 100px;
+    background-color: black;
+}
+.mb-3{
+    margin-left: 20px;
+}
+
+.btn .btn-primary{
+    margin-left: 20px;
+}

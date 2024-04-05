@@ -1,0 +1,40 @@
+.body{
+    margin-top: 20px;
+    
+}
+body {
+    
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOG4QJq27wtB9d72HIyhml3yYuv6GLhtmmg&s');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+  }
+
+.mb-3{
+    margin-left: 20px;
+}
+
+.col-12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-control{
+    border-left: 10px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    color: white; /* Define a cor do texto como branco */
+}
+
